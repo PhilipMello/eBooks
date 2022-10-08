@@ -1,5 +1,7 @@
 # <p align="center">eBooks</p>
 
+![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)
+
 Programming Language eBooks for Professionals
 
 <div>
