@@ -2,6 +2,10 @@
 
 ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)
 
+#### _Read this in [other languages](translations/Translations.md)._
+
+---
+
 Programming Language eBooks for Professionals
 
 <div>
