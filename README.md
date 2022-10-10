@@ -13,4 +13,5 @@ Programming Language eBooks for Professionals
 <a href="DotNETFrameworkNotesForProfessionals.pdf"><img src="img/DotNETFrameworkNotesForProfessionals.png"></a>
 <a href="AndroidNotesForProfessionals.pdf"><img src="img/AndroidNotesForProfessionals.png"></a>
 <a href="Angular2NotesForProfessionals.pdf"><img src="img/Angular2NotesForProfessionals.png"></a>
+<a href="BashNotesForProfessionals.pdf"><img src="img/BashNotesForProfessionals.png"></a>
 </div>
