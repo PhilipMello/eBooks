@@ -16,4 +16,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="BashNotesForProfessionals.pdf"><img src="img/BashNotesForProfessionals.png"></a></kbd>
 <kbd><a href="CNotesForProfessionals.pdf"><img src="img/CNotesForProfessionals.png"></a></kbd>
 <kbd><a href="AngularJSNotesForProfessionals.pdf"><img src="img/AngularJSNotesForProfessionals.png"></a></kbd>
+<kbd><a href="CPlusPlusNotesForProfessionals.pdf"><img src="img/CPlusPlusNotesForProfessionals.png"></a></kbd>
 </div>
