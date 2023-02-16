@@ -21,4 +21,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="CSSNotesForProfessionals.pdf"><img src="img/CSSNotesForProfessionals.png"></a></kbd>
 <kbd><a href="DotNETFrameworkNotesForProfessionals.pdf"><img src="img/DotNETFrameworkNotesForProfessionals.png"></a></kbd>
 <kbd><a href="EntityFrameworkNotesForProfessionals.pdf"><img src="img/EntityFrameworkNotesForProfessionals.png"></a></kbd>
+<kbd><a href="ExcelVBANotesForProfessionals.pdf"><img src="img/ExcelVBANotesForProfessionals.png"></a></kbd>
 </div>
