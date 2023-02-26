@@ -45,4 +45,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="PHPNotesForProfessionals.pdf"><img src="img/PHPNotesForProfessionals.png"></a></kbd>
 <kbd><a href="PostgreSQLNotesForProfessionals.pdf"><img src="img/PostgreSQLNotesForProfessionals.png"></a></kbd>
 <kbd><a href="PowerShellNotesForProfessionals.pdf"><img src="img/PowerShellNotesForProfessionals.png"></a></kbd>
+<kbd><a href="PythonNotesForProfessionals.pdf"><img src="img/PythonNotesForProfessionals.png"></a></kbd>
 </div>
