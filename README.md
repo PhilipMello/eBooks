@@ -26,4 +26,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="HaskellNotesForProfessionals.pdf"><img src="img/HaskellNotesForProfessionals.png"></a></kbd>
 <kbd><a href="HibernateNotesForProfessionals.pdf"><img src="img/HibernateNotesForProfessionals.png"></a></kbd>
 <kbd><a href="HTML5CanvasNotesForProfessionals.pdf"><img src="img/HTML5CanvasNotesForProfessionals.png"></a></kbd>
+<kbd><a href="HTML5NotesForProfessionals.pdf"><img src="img/HTML5NotesForProfessionals.png"></a></kbd>
 </div>
