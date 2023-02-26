@@ -53,4 +53,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="RubyOnRailsNotesForProfessionals.pdf"><img src="img/RubyOnRailsNotesForProfessionals.png"></a></kbd>
 <kbd><a href="SpringFrameworkNotesForProfessionals.pdf"><img src="img/SpringFrameworkNotesForProfessionals.png"></a></kbd>
 <kbd><a href="SQLNotesForProfessionals.pdf"><img src="img/SQLNotesForProfessionals.png"></a></kbd>
+<kbd><a href="SwiftNotesForProfessionals.pdf"><img src="img/SwiftNotesForProfessionals.png"></a></kbd>
 </div>
