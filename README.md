@@ -28,4 +28,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="HTML5CanvasNotesForProfessionals.pdf"><img src="img/HTML5CanvasNotesForProfessionals.png"></a></kbd>
 <kbd><a href="HTML5NotesForProfessionals.pdf"><img src="img/HTML5NotesForProfessionals.png"></a></kbd>
 <kbd><a href="iOSNotesForProfessionals.pdf"><img src="img/iOSNotesForProfessionals.png"></a></kbd>
+<kbd><a href="JavaNotesForProfessionals.pdf"><img src="img/JavaNotesForProfessionals.png"></a></kbd>
 </div>
