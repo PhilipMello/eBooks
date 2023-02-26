@@ -30,4 +30,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="iOSNotesForProfessionals.pdf"><img src="img/iOSNotesForProfessionals.png"></a></kbd>
 <kbd><a href="JavaNotesForProfessionals.pdf"><img src="img/JavaNotesForProfessionals.png"></a></kbd>
 <kbd><a href="JavaScriptNotesForProfessionals.pdf"><img src="img/JavaScriptNotesForProfessionals.png"></a></kbd>
+<kbd><a href="jQueryNotesForProfessionals.pdf"><img src="img/jQueryNotesForProfessionals.png"></a></kbd>
 </div>
