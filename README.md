@@ -50,4 +50,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="ReactNativeNotesForProfessionals.pdf"><img src="img/ReactNativeNotesForProfessionals.png"></a></kbd>
 <kbd><a href="RNotesForProfessionals.pdf"><img src="img/RNotesForProfessionals.png"></a></kbd>
 <kbd><a href="RubyNotesForProfessionals.pdf"><img src="img/RubyNotesForProfessionals.png"></a></kbd>
+<kbd><a href="RubyOnRailsNotesForProfessionals.pdf"><img src="img/RubyOnRailsNotesForProfessionals.png"></a></kbd>
 </div>
