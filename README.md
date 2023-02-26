@@ -40,4 +40,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="MySQLNotesForProfessionals.pdf"><img src="img/MySQLNotesForProfessionals.png"></a></kbd>
 <kbd><a href="NodeJSNotesForProfessionals.pdf"><img src="img/NodeJSNotesForProfessionals.png"></a></kbd>
 <kbd><a href="ObjectiveCNotesForProfessionals.pdf"><img src="img/ObjectiveCNotesForProfessionals.png"></a></kbd>
+<kbd><a href="OracleDatabaseNotesForProfessionals.pdf"><img src="img/OracleDatabaseNotesForProfessionals.png"></a></kbd>
 </div>
