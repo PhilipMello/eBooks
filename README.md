@@ -51,4 +51,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="RNotesForProfessionals.pdf"><img src="img/RNotesForProfessionals.png"></a></kbd>
 <kbd><a href="RubyNotesForProfessionals.pdf"><img src="img/RubyNotesForProfessionals.png"></a></kbd>
 <kbd><a href="RubyOnRailsNotesForProfessionals.pdf"><img src="img/RubyOnRailsNotesForProfessionals.png"></a></kbd>
+<kbd><a href="SpringFrameworkNotesForProfessionals.pdf"><img src="img/SpringFrameworkNotesForProfessionals.png"></a></kbd>
 </div>
