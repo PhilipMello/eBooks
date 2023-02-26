@@ -33,4 +33,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="jQueryNotesForProfessionals.pdf"><img src="img/jQueryNotesForProfessionals.png"></a></kbd>
 <kbd><a href="KotlinNotesForProfessionals.pdf"><img src="img/KotlinNotesForProfessionals.png"></a></kbd>
 <kbd><a href="LaTeXNotesForProfessionals.pdf"><img src="img/LaTeXNotesForProfessionals.png"></a></kbd>
+<kbd><a href="LinuxNotesForProfessionals.pdf"><img src="img/LinuxNotesForProfessionals.png"></a></kbd>
 </div>
