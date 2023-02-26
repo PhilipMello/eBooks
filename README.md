@@ -38,4 +38,6 @@ Programming Language eBooks for Professionals
 <kbd><a href="MicrosoftSQLServerNotesForProfessionals.pdf"><img src="img/MicrosoftSQLServerNotesForProfessionals.png"></a></kbd>
 <kbd><a href="MongoDBNotesForProfessionals.pdf"><img src="img/MongoDBNotesForProfessionals.png"></a></kbd>
 <kbd><a href="MySQLNotesForProfessionals.pdf"><img src="img/MySQLNotesForProfessionals.png"></a></kbd>
+<kbd><a href="NodeJSNotesForProfessionals.pdf"><img src="img/NodeJSNotesForProfessionals.png"></a></kbd>
+<kbd><a href="ObjectiveCNotesForProfessionals.pdf"><img src="img/ObjectiveCNotesForProfessionals.png"></a></kbd>
 </div>
