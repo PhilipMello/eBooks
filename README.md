@@ -54,4 +54,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="SpringFrameworkNotesForProfessionals.pdf"><img src="img/SpringFrameworkNotesForProfessionals.png"></a></kbd>
 <kbd><a href="SQLNotesForProfessionals.pdf"><img src="img/SQLNotesForProfessionals.png"></a></kbd>
 <kbd><a href="SwiftNotesForProfessionals.pdf"><img src="img/SwiftNotesForProfessionals.png"></a></kbd>
+<kbd><a href="TypeScriptNotesForProfessionals.pdf"><img src="img/TypeScriptNotesForProfessionals.png"></a></kbd>
 </div>
