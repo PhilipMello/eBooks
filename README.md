@@ -42,4 +42,5 @@ Programming Language eBooks for Professionals
 <kbd><a href="ObjectiveCNotesForProfessionals.pdf"><img src="img/ObjectiveCNotesForProfessionals.png"></a></kbd>
 <kbd><a href="OracleDatabaseNotesForProfessionals.pdf"><img src="img/OracleDatabaseNotesForProfessionals.png"></a></kbd>
 <kbd><a href="PerlNotesForProfessionals.pdf"><img src="img/PerlNotesForProfessionals.png"></a></kbd>
+<kbd><a href="PHPNotesForProfessionals.pdf"><img src="img/PHPNotesForProfessionals.png"></a></kbd>
 </div>
